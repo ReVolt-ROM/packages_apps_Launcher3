@@ -72,7 +72,7 @@
     <application
         android:name="com.android.launcher3.LauncherApplication"
         android:label="@string/application_name"
-        android:icon="@mipmap/ic_launcher_home"
+        android:icon="@mipmap/ic_launcher_aosp_home"
         android:hardwareAccelerated="true"
         android:largeHeap="@bool/config_largeHeap"
         android:supportsRtl="true">
