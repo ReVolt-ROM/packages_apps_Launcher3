@@ -57,8 +57,8 @@
         launcher:x="2"
         launcher:y="3" />
     <favorite
-        launcher:packageName="com.aokp.romcontrol"
-        launcher:className="com.aokp.romcontrol.MainActivity"
+        launcher:packageName="com.revolt.control"
+        launcher:className="com.revolt.control.MainActivity"
         launcher:screen="3"
         launcher:x="3"
         launcher:y="3" />
