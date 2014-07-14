@@ -58,7 +58,7 @@
         launcher:y="3" />
     <favorite
         launcher:packageName="com.revolt.control"
-        launcher:className="com.revolt.control.MainActivity"
+        launcher:className="com.revolt.control.LauncherActivity"
         launcher:screen="3"
         launcher:x="3"
         launcher:y="3" />
